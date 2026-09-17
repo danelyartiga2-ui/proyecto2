@@ -135,7 +135,7 @@ public class MascotaVirtual {
       if(valor>=60)
           color = Colores.VERDE;
       else if (valor>=30)
-          color=Colores.AMARILLO;
+          color=Colores.AMARILLO;g
         else
           color=Colores.ROJO;
 
